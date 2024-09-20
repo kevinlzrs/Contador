@@ -1,0 +1,30 @@
+
+body{
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button{
+    background-color: aqua;
+    width: 10rem;
+    height: 20px;
+}
+
+h1{
+    color: aqua;
+}
+
+span{
+    color: red;
+}
+
+
+.caixa{
+    margin: 0 10rem;
+    padding: 20px;
+    border-radius: 3px;
+    background-color: aliceblue; */
+}
